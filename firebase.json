@@ -1,0 +1,15 @@
+{
+ "hosting": {
+  "site": "autoseo-network-77a38",
+  "public": ".",
+  "ignore": [
+   "firebase.json",
+   "**/.*",
+   "**/node_modules/**",
+   ".github/**",
+   "README.md"
+  ],
+  "cleanUrls": false,
+  "trailingSlash": true
+ }
+}
